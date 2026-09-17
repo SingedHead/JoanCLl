@@ -125,7 +125,7 @@ Mises) y deformaciones de los componentes críticos.
 
 - `MemoriaDiseñoKart.pdf` — memoria completa del diseño (geometría,
   materiales, componentes y análisis).
-- `CDIMProyecto.pdf` — documentación del proyecto.
+
 
 ## Conceptos clave
 
